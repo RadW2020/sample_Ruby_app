@@ -4,7 +4,7 @@ This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 
-[*Me*](https://radw2020.github.io/)
+[**Me**](https://radw2020.github.io/)
 
 ## License
 
